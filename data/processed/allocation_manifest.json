@@ -1,0 +1,41 @@
+{
+  "seed": 20261019,
+  "counts": {
+    "development": 400,
+    "sft_train": 1000,
+    "grpo_train": 1000,
+    "test_candidate": 1000,
+    "reserve_unallocated": 359
+  },
+  "splits": {
+    "development": {
+      "rows": 400,
+      "bytes": 568342,
+      "sha256": "0cb544e7d8b1a0ce5cac4ee11a7b7946a6553b8d5576962a4bcbeba32a6d355f"
+    },
+    "sft_train": {
+      "rows": 1000,
+      "bytes": 1418741,
+      "sha256": "f0bf657a3b7b3b0986309a49397aa7ac8e1fa08be52c27b732152f80fd09b48c"
+    },
+    "grpo_train": {
+      "rows": 1000,
+      "bytes": 1419832,
+      "sha256": "dd3ef91febcb7e017e6eef98262c4c348c458b3a018e68e572a7de654c1dc6f5"
+    },
+    "test_candidate": {
+      "rows": 1000,
+      "bytes": 1423668,
+      "sha256": "a78b45a5ed79e7aa393b3e5f2fc147c52ad7ecf5595554b5e5107d38ae6dade3"
+    },
+    "reserve_unallocated": {
+      "rows": 359,
+      "bytes": 511418,
+      "sha256": "f421d74e51c6563996017a6a6ff4235f01815ee9860aaf55b2f455d4a56d3292"
+    }
+  },
+  "license_status": "unresolved in upstream metadata",
+  "allocation_checks_passed": true,
+  "human_review_performed_in_this_execution": false,
+  "membership_policy": "Fixed published ID-only split; legacy compatibility flags refer to original curation, not new attestations."
+}

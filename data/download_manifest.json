@@ -1,0 +1,21 @@
+{
+  "repository": "StreetMath/StreetMath",
+  "revision": "57eaa00a63f48ee4498328f160e1c7aebc59bfd3",
+  "downloads": {
+    "street_math_train.jsonl": {
+      "url": "https://huggingface.co/datasets/StreetMath/StreetMath/resolve/57eaa00a63f48ee4498328f160e1c7aebc59bfd3/street_math_train.jsonl?download=true",
+      "resolved_url": "https://huggingface.co/api/resolve-cache/datasets/StreetMath/StreetMath/57eaa00a63f48ee4498328f160e1c7aebc59bfd3/street_math_train.jsonl?download=true&etag=%220e536a804886058004b4f9ab13b708005e22d4ff%22",
+      "bytes": 226813,
+      "sha256": "e6cb3a15eada73639a63a5b08c009c6a4e512ccd23dad0292d3a807c593fcce7",
+      "downloaded_utc": "2026-11-03T13:23:09.919472+00:00"
+    },
+    "street_math_test.jsonl": {
+      "url": "https://huggingface.co/datasets/StreetMath/StreetMath/resolve/57eaa00a63f48ee4498328f160e1c7aebc59bfd3/street_math_test.jsonl?download=true",
+      "resolved_url": "https://huggingface.co/api/resolve-cache/datasets/StreetMath/StreetMath/57eaa00a63f48ee4498328f160e1c7aebc59bfd3/street_math_test.jsonl?download=true&etag=%22d2302fe2d1e093885ea3379e0cb10ef06a6ba40b%22",
+      "bytes": 2256530,
+      "sha256": "da5f17c2235062bcae19bde4321818007a66f441b3817f0b64d984c4b8005230",
+      "downloaded_utc": "2026-11-03T13:23:10.177307+00:00"
+    }
+  },
+  "license_status": "unresolved"
+}
